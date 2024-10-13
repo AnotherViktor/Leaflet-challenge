@@ -1,0 +1,23 @@
+/* General page styling */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+/* Styling the map container */
+#map {
+  height: 100vh;
+  width: 100%;
+}
+
+/* Styling the legend for the map */
+.legend {
+  background: white;
+  padding: 10px;
+  line-height: 18px;
+  color: #555;
+  font-size: 12px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
